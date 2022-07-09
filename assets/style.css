@@ -25,3 +25,23 @@ a{
 #header{
     color: white;
 }
+.section1{
+    background-image: url('./images/image\ 1\ \(1\).png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 5%;
+}
+.home{
+    display: flex;
+}
+.home>img{
+    margin-left: 10%;
+}
+.button2{
+    padding: 15px;
+    background-color: #ED661F;
+    color: white;
+    border: none;
+    font-weight: 900;
+}
