@@ -20,6 +20,7 @@ a{
     color: white;
     border: none;
     font-weight: 600;
+    margin-top: 33%;
     
 }
 #header{
@@ -53,4 +54,26 @@ a{
    margin-top: -3%;
    margin-left: 55%;
    box-shadow: 20px;
+   
+}
+.section2{
+    padding: 4%;
+    /* background-color: red; */
+
+}
+.exist{
+    display: flex;
+}
+.exist>img{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.exist>p{
+    margin-top: 90px;
+}
+.section2>h2{
+    margin-top: 90px;
+}
+.categories{
+    margin-left: 40%;
 }
