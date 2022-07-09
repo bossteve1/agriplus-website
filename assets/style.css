@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+a{
+    margin: 5px;
+    color: blanchedalmond;
+    text-decoration: none;
+
+} 
+.tabs, .login{
+    padding: 3%;
+}
+.button1{
+    padding: 10px;
+    /* border-radius: 5px; */
+    height: fit-content;
+    background-color: #ED661F;
+    color: white;
+    border: none;
+    font-weight: 600;
+    
+}
+#header{
+    color: white;
+}
