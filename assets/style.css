@@ -77,3 +77,7 @@ a{
 .categories{
     margin-left: 40%;
 }
+.products, .newproduct{
+    display: flex;
+    justify-content: space-around;
+}
