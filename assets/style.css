@@ -1,3 +1,6 @@
+body{
+    font-family: 'poppins' 'inter';
+}
 .navbar{
     display: flex;
     justify-content: space-around;
@@ -129,4 +132,44 @@ span{
     border: none;
     padding: 10px;
     color: white;
+}
+.button4{
+   height: 100px;
+   padding: 1px 1px;
+   font-size: 8px;
+   display: flex;
+}
+
+.one{
+    display: flex;
+    height: 100px;
+}
+.icon{
+    height: 0px;
+    margin-bottom: 30px;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    border-top: 3px solid white;
+}
+
+.footer1{
+    margin-left: 100px;
+}
+.footer2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+}
+.company,.products, .others{
+    margin-left: 60px;
+    display: block;
+}
+
+#copyright{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
 }
