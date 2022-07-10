@@ -81,3 +81,37 @@ a{
     display: flex;
     justify-content: space-around;
 }
+.section3{
+    padding: 7%;
+    border-bottom: 16px solid rgb(175, 170, 170);
+}
+.arrow{
+    float: right;
+}
+.arrow>i{
+    color: #ED661F;
+}
+span{
+    margin-left: 5%;
+    /* margin-bottom: 100px; */
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    box-shadow: 3px 2px 2px 2px #888888;
+    width: 15%;
+    height: 180px;
+}
+.card>i{
+    color: #ED661F;
+    margin-left: 5%;
+    
+}
+#unstarred{
+    color: #888888;
+}
+#read{
+    margin-right: 50px;
+}
