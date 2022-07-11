@@ -62,12 +62,12 @@ a{
 }
 .subsection1{
     display: flex;
-   background-color: white;
+   /* background-color: white; */
    width: 30%;
    padding: 1.5%;
    margin-top: -3%;
    margin-left: 55%;
-   box-shadow: 20px;
+   box-shadow: 3px 2px 2px 2px lightgray;
    
 }
 .section2{
