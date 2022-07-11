@@ -12,10 +12,17 @@ a{
     text-decoration: none;
 
 }
-a.home{
-    text-decoration: solid;
-    text-decoration-color: #ED661F;
+.underline{
+    /* text-decoration: 2px solid #ED661F; */
+    border-bottom: 2px solid #ED661F;
+    padding: 2px;
 } 
+.underline1{
+    border-bottom: 2px solid #ED661F;
+    padding: 2px;
+    width:12%;
+}
+
 .tabs, .login{
     padding: 3%;
 }
@@ -88,9 +95,14 @@ a.home{
     display: flex;
     justify-content: space-around;
 }
+.product{
+    display: flex;
+    justify-content: space-around;
+} 
+
 .section3{
     padding: 7%;
-    border-bottom: 16px solid rgb(175, 170, 170);
+    border-bottom: 16px solid rgb(175, 170, 170);  
 }
 .arrow{
     float: right;
