@@ -11,6 +11,10 @@ a{
     color: blanchedalmond;
     text-decoration: none;
 
+}
+a.home{
+    text-decoration: solid;
+    text-decoration-color: #ED661F;
 } 
 .tabs, .login{
     padding: 3%;
