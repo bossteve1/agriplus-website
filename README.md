@@ -10,7 +10,7 @@ This is a website for a agriculture website.It helps farmers and customers sell 
 * Click the live link in the About section or copy it and paste it on your browser.
 * Browse the site at your own convenience
 
-###link [here is the live link]()
+### link [here is the live link](https://bossteve1.github.io/agriplus-website/)
 
 
 ### Licence
